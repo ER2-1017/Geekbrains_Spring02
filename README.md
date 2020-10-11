@@ -1,6 +1,5 @@
 # online-store-frontend
 
-<b>Backend</b> https://github.com/aakazakov/online-store-backend
 
 ## Project setup
 ```
